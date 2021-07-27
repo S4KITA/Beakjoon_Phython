@@ -1,0 +1,6 @@
+inputA, inputB = input().split()
+print(int(inputA) + int(inputB))
+print(int(inputA) - int(inputB))
+print(int(inputA) * int(inputB))
+print(int(int(inputA) / int(inputB)))
+print(int(inputA) % int(inputB))
